@@ -254,6 +254,19 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
+      title: "San Jose State University",
+      subtitle: "M.S. in Computer Software Engineering",
+      logo_path: "sjsu_logo.png",
+      alt_name: "SJSU",
+      duration: "2022 - 2024",
+      descriptions: [
+        "⚡ Enrolled in courses covering Full Stack Development, Cloud Computing, Software Systems, and Data Mining, broadening my technical knowledge.",
+        "⚡ Actively engaged in competitive coding on platforms like LeetCode and GitHub while also working on creating Machine Learning models.",
+        "⚡ During my University time, I relished my time with a hiking group and gardening club, where I hiked often and harvested from gardens weekly.",
+      ],
+      website_link: "https://www.sjsu.edu/",
+    },
+    {
       title:
         "Vallurupalli Nageshwar Rao Institute of Engineering and Technology",
       subtitle: "B.Tech. in Information Technology",
@@ -266,19 +279,6 @@ const degrees = {
         "⚡ Hosted a technical event Crazathon, interned for the department's MTP website, and taught high school students HTML and coding.",
       ],
       website_link: "https://vnrvjiet.ac.in/",
-    },
-    {
-      title: "San Jose State University",
-      subtitle: "M.S. in Computer Software Engineering",
-      logo_path: "sjsu_logo.png",
-      alt_name: "SJSU",
-      duration: "2022 - 2024",
-      descriptions: [
-        "⚡ Enrolled in courses covering Full Stack Development, Cloud Computing, Software Systems, and Data Mining, broadening my technical knowledge.",
-        "⚡ Actively engaged in competitive coding on platforms like LeetCode and GitHub while also working on creating Machine Learning models.",
-        "⚡ During my University time, I relished my time with a hiking group and gardening club, where I hiked often and harvested from gardens weekly.",
-      ],
-      website_link: "https://www.sjsu.edu/",
     },
   ],
 };
