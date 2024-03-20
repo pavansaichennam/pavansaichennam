@@ -2,7 +2,7 @@
   "private": true,
   "name": "masterportfolio",
   "version": "0.1.0",
-  "homepage": "https://pchennam1998.github.io/pavansaichennam/",
+  "homepage": "https://pavansaichennam.github.io/pavansaichennam/",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",

@@ -26,26 +26,26 @@ const greeting = {
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
     "https://drive.google.com/file/d/1JiBtAq_gjfgxK7Q_xAlNDRljUH76km8o/view?usp=sharing",
-  portfolio_repository: "https://github.com/pchennam1998",
-  githubProfile: "https://github.com/pchennam1998",
+  portfolio_repository: "https://github.com/pavansaichennam",
+  githubProfile: "https://github.com/pavansaichennam",
 };
 
 const socialMediaLinks = [
   /* Your Social Media Link */
-  // github: "https://github.com/pchennam1998",
-  // linkedin: "https://www.linkedin.com/in/pavan-sai-c-223b15148/",
+  // github: "https://github.com/pavansaichennam",
+  // linkedin: "https://www.linkedin.com/in/pavansaichennam/",
   // gmail: "pavansaichennam@gmail.com",
   // twitter: "https://twitter.com/pchennam1998"
 
   {
     name: "Github",
-    link: "https://github.com/pchennam1998",
+    link: "https://github.com/pavansaichennam",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/pavan-sai-c-223b15148/",
+    link: "https://www.linkedin.com/in/pavansaichennam/",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
@@ -238,7 +238,7 @@ const competitiveSites = {
       style: {
         color: "#5B4638",
       },
-      profileLink: "https://www.github.com/pchennam1998/",
+      profileLink: "https://www.github.com/pavansaichennam/",
     },
     {
       siteName: "HackerRank",
